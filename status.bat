@@ -1,4 +1,4 @@
-set new1= SoftAim: Working!
-set new2= FNSS Server: ON
-set new3= si saelsssss
+set new1= 
+set new2= SoftAim: Working!
+set new3= FNSS Server: ONLINE
 set new4=
