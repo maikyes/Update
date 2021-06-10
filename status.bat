@@ -1,4 +1,4 @@
-set new1= SoftAim: Is safe from virus
-set new2= FNSS Server: Will be close in 6/10/2021
-set new3= Please Support me Typing [ s ]
-set new4= To add more Content!
+set new1= SoftAim: Patch, Working on it!
+set new2= FNSS Server: Will be in maintenance Tomorrow
+set new3= Server Bills $50 Months
+set new4= 30$ / 50$
