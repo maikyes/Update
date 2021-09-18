@@ -1,1 +1,1 @@
-set local=65.0
+set local=66.0
